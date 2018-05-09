@@ -1,7 +1,7 @@
 AsiaDevelopCoin Core integration/staging tree
 =====================================
 
-https://github.com/XGoldCoin/asiadevelopcoin/
+
 
 What is AsiaDevelopCoin?
 -------------------
@@ -13,7 +13,7 @@ out collectively by the network. AsiaDevelopCoin Core is the name of open source
 software which enables the use of this currency.
 
 For more information, as well as an immediately useable, binary version of
-the AsiaDevelopCoin Core software, see [https://github.com/XGoldCoin/asiadevelopcoin/](https://github.com/XGoldCoin/asiadevelopcoin).
+the AsiaDevelopCoin Core software.
 
 License
 -------
@@ -25,7 +25,7 @@ Development Process
 -------------------
 
 The `master` branch is regularly built and tested, but is not guaranteed to be
-completely stable. [Tags](https://github.com/XGoldCoin/asiadevelopcoin/tags) are created
+completely stable.
 regularly to indicate new official, stable release versions of AsiaDevelopCoin Core.
 
 The contribution workflow is described in [CONTRIBUTING.md](CONTRIBUTING.md).
